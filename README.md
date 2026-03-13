@@ -1,4 +1,4 @@
-# Título do Projeto
+# Sistema de Controle de despesas
 
 `CURSO: Sistemas de Informação`
 
@@ -6,20 +6,19 @@
 
 `SEMESTRE: 3º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Será desenvolvido um ambiente voltato para auxiliar pessoas no controle de seus gastos financeiros. A ferramenta permirirá visualizar de forma organizada de como o dinheiro foi ultilizado ao longo do mês, apresentando informaçãoes sobre onde ocorreram os proncipais gastos.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Igor Maskherano 1
+* Alisson Fernando 2
+* Diego Soares 3
+* Jeferson Silva Carvalho 4
+* Rafael Alves Faria 5
 
 ## Orientador
 
-* Nome completo do professor 
+*  Joana Gabriela Ribeiro de Souza
 
 # Planejamento
 
